@@ -1,0 +1,65 @@
+﻿# updated cart functionality
+# search functionality added
+
+
+<!-- dishes section starts  -->
+
+
+<section class="dishes" id="dishes">
+    <br /><br /><br /><br />
+
+    <h3 class="sub-heading"> our dishes </h3>
+    <h1 class="heading"> popular dishes </h1>
+
+    <div class="box-container">
+        @foreach (var item2 in ViewBag.dish)
+        {
+        <div class="box">
+            <a href="#" class="fas fa-heart"></a>
+            <a href="#" class="fas fa-eye"></a>
+            <img src="~/@item2.DishImagePath" alt="">
+            <h3>@item2.DishName</h3>
+            <p>
+                <span class="starrating"> <span class="starnumber">@item2.DishRating</span> star rating</span> <br />
+                <span class="price">R @item2.DishPrice</span>
+            </p>
+            <form asp-controller="Home" asp-action="AddToCart" method="post">
+                <input type="hidden" name="DishID" value="@item2.DishID" />
+                <button type="submit" class="btn">Add To Cart</button>
+            </form>
+            @*<a asp-controller="Home" asp-action="Order" class="btn">Add to cart</a>*@
+        </div>
+        }
+
+
+
+    </div>
+
+</section>
+
+<!-- dishes section ends -->
+<section class="dishes" id="dishes">
+    <br /><br /><br /><br />
+
+    <h3 class="sub-heading"> our dishes </h3>
+    <h1 class="heading"> popular dishes </h1>
+
+    <div class="box-container">
+        @foreach (var item2 in ViewBag.dish)
+        {
+            <div class="box">
+                <a href="#" class="fas fa-heart"></a>
+                <a href="#" class="fas fa-eye"></a>
+                <img src="~/@item2.DishImagePath" alt="">
+                <h3>@item2.DishName</h3>
+                <p>
+                    <span class="starrating"> <span class="starnumber">@item2.DishRating</span> star rating</span> <br />
+                    <span class="price">R @item2.DishPrice</span>
+                </p>
+            </div>
+        }
+
+
+
+    </div>
+

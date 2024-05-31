@@ -1,0 +1,720 @@
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.AssemblyInfoInputs.cache
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.AssemblyInfo.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.CoreCompileInputs.cache
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.MvcApplicationPartsAssemblyInfo.cache
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorAssemblyInfo.cache
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorAssemblyInfo.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\staticwebassets\LnJ Catering Services.StaticWebAssets.Manifest.cache
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\staticwebassets\LnJ Catering Services.StaticWebAssets.xml
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\scopedcss\bundle\LnJ Catering Services.styles.css
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.TagHelpers.input.cache
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.TagHelpers.output.cache
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorCoreGenerate.cache
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.dll
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.pdb
+E:\Rosebank\Wil\New folder\LnJ Catering Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Rosebank\Wil\New folder\LnJ Catering Services\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Rosebank\Wil\New folder\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.exe
+E:\Rosebank\Wil\New folder\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.deps.json
+E:\Rosebank\Wil\New folder\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.runtimeconfig.json
+E:\Rosebank\Wil\New folder\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.runtimeconfig.dev.json
+E:\Rosebank\Wil\New folder\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.dll
+E:\Rosebank\Wil\New folder\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.pdb
+E:\Rosebank\Wil\New folder\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.Views.dll
+E:\Rosebank\Wil\New folder\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.Views.pdb
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorTargetAssemblyInfo.cache
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorTargetAssemblyInfo.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.Views.pdb
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.genruntimeconfig.cache
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.CopyComplete
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.AssemblyReference.cache
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Order.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Advertise.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Advertise\Advert.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Advertise_Layout.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_About_Layout.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Rosebank\Wil\New folder\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Rosebank\Wil\New folder\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Rosebank\Wil\New folder\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Rosebank\Wil\New folder\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Rosebank\Wil\New folder\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Order_Layout.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Login_Layout.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminAbout.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminHome.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Layout.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminReviews.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Register\Register.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_About_Layout.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.exe
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.deps.json
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.runtimeconfig.json
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.runtimeconfig.dev.json
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.dll
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.pdb
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.Views.dll
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.Views.pdb
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.AssemblyInfoInputs.cache
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.AssemblyInfo.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.CoreCompileInputs.cache
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.MvcApplicationPartsAssemblyInfo.cache
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorAssemblyInfo.cache
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorAssemblyInfo.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\staticwebassets\LnJ Catering Services.StaticWebAssets.Manifest.cache
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\staticwebassets\LnJ Catering Services.StaticWebAssets.xml
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\scopedcss\bundle\LnJ Catering Services.styles.css
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.TagHelpers.input.cache
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.TagHelpers.output.cache
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorCoreGenerate.cache
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminHome.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Advertise\Advert.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Advertise.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Order.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Register\Register.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Layout.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_About_Layout.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Advertise_Layout.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Login_Layout.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Order_Layout.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorTargetAssemblyInfo.cache
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorTargetAssemblyInfo.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.Views.pdb
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.CopyComplete
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.dll
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.pdb
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.genruntimeconfig.cache
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.StaticWebAssets.xml
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.exe
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.deps.json
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.runtimeconfig.json
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.runtimeconfig.dev.json
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.dll
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.pdb
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.Views.dll
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.Views.pdb
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.AssemblyReference.cache
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.AssemblyInfoInputs.cache
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.AssemblyInfo.cs
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.CoreCompileInputs.cache
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.MvcApplicationPartsAssemblyInfo.cache
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorAssemblyInfo.cache
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorAssemblyInfo.cs
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\staticwebassets\LnJ Catering Services.StaticWebAssets.Manifest.cache
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.TagHelpers.input.cache
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.TagHelpers.output.cache
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorCoreGenerate.cache
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminAbout.cshtml.g.cs
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminHome.cshtml.g.cs
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminReviews.cshtml.g.cs
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Advertise\Advert.cshtml.g.cs
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Advertise.cshtml.g.cs
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Order.cshtml.g.cs
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Register\Register.cshtml.g.cs
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_About_Layout.cshtml.g.cs
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Layout.cshtml.g.cs
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_About_Layout.cshtml.g.cs
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Advertise_Layout.cshtml.g.cs
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Login_Layout.cshtml.g.cs
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Order_Layout.cshtml.g.cs
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorTargetAssemblyInfo.cache
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorTargetAssemblyInfo.cs
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.Views.pdb
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.CopyComplete
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.dll
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.pdb
+D:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.genruntimeconfig.cache
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminReviewsRatings.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Reviews_Layout.cshtml.g.cs
+E:\Rosebank\Wil\New folder\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.AssemblyReference.cache
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.exe
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.deps.json
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.runtimeconfig.json
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.runtimeconfig.dev.json
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.dll
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.pdb
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.Views.dll
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.Views.pdb
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.AssemblyReference.cache
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.AssemblyInfoInputs.cache
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.AssemblyInfo.cs
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.CoreCompileInputs.cache
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.MvcApplicationPartsAssemblyInfo.cache
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorAssemblyInfo.cache
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorAssemblyInfo.cs
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\staticwebassets\LnJ Catering Services.StaticWebAssets.Manifest.cache
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\staticwebassets\LnJ Catering Services.StaticWebAssets.xml
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\scopedcss\bundle\LnJ Catering Services.styles.css
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.TagHelpers.input.cache
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.TagHelpers.output.cache
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorCoreGenerate.cache
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminHome.cshtml.g.cs
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminReviewsRatings.cshtml.g.cs
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Advertise\Advert.cshtml.g.cs
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Advertise.cshtml.g.cs
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Order.cshtml.g.cs
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Register\Register.cshtml.g.cs
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Layout.cshtml.g.cs
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Reviews_Layout.cshtml.g.cs
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_About_Layout.cshtml.g.cs
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Advertise_Layout.cshtml.g.cs
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Login_Layout.cshtml.g.cs
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Order_Layout.cshtml.g.cs
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorTargetAssemblyInfo.cache
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorTargetAssemblyInfo.cs
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.Views.pdb
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.CopyComplete
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.dll
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.pdb
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.genruntimeconfig.cache
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Notifications.cshtml.g.cs
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminCustomerOrders.cshtml.g.cs
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminEditFood.cshtml.g.cs
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Edit_Layout.cshtml.g.cs
+E:\Rosebank\Work intergrated Learning\Official project\Mobile application\LnJ Catering Services v2.03\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Orders_Layout.cshtml.g.cs
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.exe
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.deps.json
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.runtimeconfig.json
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.runtimeconfig.dev.json
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.dll
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.pdb
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.Views.dll
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.Views.pdb
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.AssemblyReference.cache
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.AssemblyInfoInputs.cache
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.AssemblyInfo.cs
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.CoreCompileInputs.cache
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorAssemblyInfo.cache
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorAssemblyInfo.cs
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\staticwebassets\LnJ Catering Services.StaticWebAssets.Manifest.cache
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\staticwebassets\LnJ Catering Services.StaticWebAssets.xml
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\scopedcss\bundle\LnJ Catering Services.styles.css
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.TagHelpers.input.cache
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.TagHelpers.output.cache
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorCoreGenerate.cache
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminCustomerOrders.cshtml.g.cs
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminEditFood.cshtml.g.cs
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminHome.cshtml.g.cs
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminReviewsRatings.cshtml.g.cs
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Advertise\Advert.cshtml.g.cs
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Advertise.cshtml.g.cs
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Notifications.cshtml.g.cs
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Order.cshtml.g.cs
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Register\Register.cshtml.g.cs
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Edit_Layout.cshtml.g.cs
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Layout.cshtml.g.cs
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Orders_Layout.cshtml.g.cs
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Reviews_Layout.cshtml.g.cs
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_About_Layout.cshtml.g.cs
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Advertise_Layout.cshtml.g.cs
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Login_Layout.cshtml.g.cs
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Order_Layout.cshtml.g.cs
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorTargetAssemblyInfo.cache
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorTargetAssemblyInfo.cs
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.Views.pdb
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.CopyComplete
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.dll
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.pdb
+C:\Users\ST10131002\Documents\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.genruntimeconfig.cache
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\appsettings.json
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.exe
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.deps.json
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.runtimeconfig.json
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.runtimeconfig.dev.json
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.dll
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.pdb
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.Views.dll
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.Views.pdb
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.AssemblyReference.cache
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.AssemblyInfoInputs.cache
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.AssemblyInfo.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.CoreCompileInputs.cache
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.MvcApplicationPartsAssemblyInfo.cache
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorAssemblyInfo.cache
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorAssemblyInfo.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\staticwebassets\LnJ Catering Services.StaticWebAssets.Manifest.cache
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\staticwebassets\LnJ Catering Services.StaticWebAssets.xml
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\scopedcss\bundle\LnJ Catering Services.styles.css
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.TagHelpers.input.cache
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.TagHelpers.output.cache
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorCoreGenerate.cache
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminCustomerOrders.cshtml.g.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminEditFood.cshtml.g.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminHome.cshtml.g.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminReviewsRatings.cshtml.g.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Advertise\Advert.cshtml.g.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Advertise.cshtml.g.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Notifications.cshtml.g.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Order.cshtml.g.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Register\Register.cshtml.g.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Edit_Layout.cshtml.g.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Layout.cshtml.g.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Orders_Layout.cshtml.g.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Reviews_Layout.cshtml.g.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_About_Layout.cshtml.g.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Advertise_Layout.cshtml.g.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Login_Layout.cshtml.g.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Order_Layout.cshtml.g.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorTargetAssemblyInfo.cache
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorTargetAssemblyInfo.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.Views.pdb
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.CopyComplete
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.dll
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.pdb
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.genruntimeconfig.cache
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cart.cshtml.g.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Cart_Layout.cshtml.g.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\SearchFood.cshtml.g.cs
+E:\ROSEBANK COLLEGE\null\LnJ Catering Services v2.05\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Search_Layout.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.exe
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.deps.json
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.runtimeconfig.json
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.runtimeconfig.dev.json
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.dll
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.pdb
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.Views.dll
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.Views.pdb
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.AssemblyReference.cache
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.AssemblyInfoInputs.cache
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.AssemblyInfo.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.CoreCompileInputs.cache
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.MvcApplicationPartsAssemblyInfo.cache
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorAssemblyInfo.cache
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorAssemblyInfo.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\staticwebassets\LnJ Catering Services.StaticWebAssets.Manifest.cache
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\staticwebassets\LnJ Catering Services.StaticWebAssets.xml
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\scopedcss\bundle\LnJ Catering Services.styles.css
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.TagHelpers.input.cache
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.TagHelpers.output.cache
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorCoreGenerate.cache
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminCustomerOrders.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminEditFood.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminHome.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminReviewsRatings.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Advertise\Advert.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Advertise.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cart.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Notifications.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Order.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\SearchFood.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Register\Register.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Edit_Layout.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Layout.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Orders_Layout.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Reviews_Layout.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_About_Layout.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Advertise_Layout.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Cart_Layout.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Login_Layout.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Order_Layout.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Search_Layout.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorTargetAssemblyInfo.cache
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorTargetAssemblyInfo.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.Views.pdb
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.CopyComplete
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.dll
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.pdb
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.genruntimeconfig.cache
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminRegisteredCustomers.cshtml.g.cs
+E:\Rosebank\Modules\Work intergrated Learning\Official project\Web application\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Users_Layout.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.exe
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.deps.json
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.runtimeconfig.json
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.runtimeconfig.dev.json
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.dll
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.pdb
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.Views.dll
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.Views.pdb
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.AssemblyReference.cache
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.AssemblyInfoInputs.cache
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.AssemblyInfo.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.CoreCompileInputs.cache
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorAssemblyInfo.cache
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorAssemblyInfo.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\staticwebassets\LnJ Catering Services.StaticWebAssets.Manifest.cache
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\staticwebassets\LnJ Catering Services.StaticWebAssets.xml
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\scopedcss\bundle\LnJ Catering Services.styles.css
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.TagHelpers.input.cache
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.TagHelpers.output.cache
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorCoreGenerate.cache
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminCustomerOrders.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminEditFood.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminHome.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminRegisteredCustomers.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminReviewsRatings.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Advertise\Advert.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Advertise.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cart.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Notifications.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Order.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\SearchFood.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Register\Register.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Edit_Layout.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Layout.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Orders_Layout.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Reviews_Layout.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Users_Layout.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_About_Layout.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Advertise_Layout.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Cart_Layout.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Login_Layout.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Order_Layout.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Search_Layout.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorTargetAssemblyInfo.cache
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorTargetAssemblyInfo.cs
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.Views.pdb
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.CopyComplete
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.dll
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.pdb
+C:\Users\ST10131311\Desktop\LnJ Catering Services v2.05.1\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.genruntimeconfig.cache
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.exe
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.deps.json
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.runtimeconfig.json
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.runtimeconfig.dev.json
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.dll
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.pdb
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.Views.dll
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.Views.pdb
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.AssemblyReference.cache
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.AssemblyInfoInputs.cache
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.AssemblyInfo.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.CoreCompileInputs.cache
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorAssemblyInfo.cache
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorAssemblyInfo.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\staticwebassets\LnJ Catering Services.StaticWebAssets.Manifest.cache
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\staticwebassets\LnJ Catering Services.StaticWebAssets.xml
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\scopedcss\bundle\LnJ Catering Services.styles.css
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.TagHelpers.input.cache
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.TagHelpers.output.cache
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorCoreGenerate.cache
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminCustomerOrders.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminEditFood.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminHome.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminRegisteredCustomers.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminReviewsRatings.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Advertise\Advert.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Advertise.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cart.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Notifications.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Order.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\SearchFood.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Register\Register.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Edit_Layout.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Layout.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Orders_Layout.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Reviews_Layout.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Users_Layout.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_About_Layout.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Advertise_Layout.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Cart_Layout.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Login_Layout.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Order_Layout.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Search_Layout.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorTargetAssemblyInfo.cache
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorTargetAssemblyInfo.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.Views.pdb
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.CopyComplete
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.dll
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.pdb
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.genruntimeconfig.cache
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.2\LnJ Catering Services v2.05.2\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\OrderPlaced.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.exe
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.deps.json
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.runtimeconfig.json
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.runtimeconfig.dev.json
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.dll
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.pdb
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.Views.dll
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.Views.pdb
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.AssemblyReference.cache
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.AssemblyInfoInputs.cache
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.AssemblyInfo.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.CoreCompileInputs.cache
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorAssemblyInfo.cache
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorAssemblyInfo.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\staticwebassets\LnJ Catering Services.StaticWebAssets.Manifest.cache
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\staticwebassets\LnJ Catering Services.StaticWebAssets.xml
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\scopedcss\bundle\LnJ Catering Services.styles.css
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.TagHelpers.input.cache
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.TagHelpers.output.cache
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorCoreGenerate.cache
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminCustomerOrders.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminEditFood.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminHome.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminRegisteredCustomers.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminReviewsRatings.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Advertise\Advert.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Advertise.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cart.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Notifications.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Order.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\OrderPlaced.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\SearchFood.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Register\Register.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Edit_Layout.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Layout.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Orders_Layout.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Reviews_Layout.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Users_Layout.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_About_Layout.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Advertise_Layout.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Cart_Layout.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Login_Layout.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Order_Layout.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Search_Layout.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorTargetAssemblyInfo.cache
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorTargetAssemblyInfo.cs
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.Views.pdb
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.CopyComplete
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.dll
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.pdb
+C:\Users\ST10131311\Pictures\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.genruntimeconfig.cache
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.StaticWebAssets.xml
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.exe
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.deps.json
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.runtimeconfig.json
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.runtimeconfig.dev.json
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.dll
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.pdb
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.Views.dll
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\LnJ Catering Services.Views.pdb
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.AssemblyReference.cache
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.AssemblyInfoInputs.cache
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.AssemblyInfo.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorAssemblyInfo.cache
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorAssemblyInfo.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.TagHelpers.input.cache
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.TagHelpers.output.cache
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorCoreGenerate.cache
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminCustomerOrders.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminEditFood.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminHome.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminRegisteredCustomers.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AdminReviewsRatings.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Advertise\Advert.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Advertise.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cart.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Notifications.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Order.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\OrderPlaced.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\SearchFood.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Register\Register.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Edit_Layout.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Layout.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Orders_Layout.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Reviews_Layout.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Users_Layout.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_About_Layout.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Advertise_Layout.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Cart_Layout.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Login_Layout.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Order_Layout.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Search_Layout.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.RazorTargetAssemblyInfo.cs
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.Views.pdb
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\staticwebassets\LnJ Catering Services.StaticWebAssets.Manifest.cache
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\staticwebassets\LnJ Catering Services.StaticWebAssets.Pack.cache
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.LnJ Catering Services.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.LnJ Catering Services.props
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.LnJ Catering Services.props
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.LnJ Catering Services.props
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Cate.B5B805E5.Up2Date
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.dll
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.pdb
+C:\Users\User\Documents\LnJ Catering Services v2.05.5\LnJ Catering Services\obj\Debug\netcoreapp3.1\LnJ Catering Services.genruntimeconfig.cache
